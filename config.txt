@@ -1,6 +1,6 @@
 token= NTIzMjE0ODIzNDg0NDI0MTk1.DvbkLQ.pV7XNUQyHaWiY1snqld9oaD1pEQ
 owner= 498991974393708554
 prefix= 1
-game= ?er? ?e?ve?
+game= Zero Server
 stayinchannel= true
 songinstatus= true
